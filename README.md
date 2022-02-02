@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I'm currently a university student in China
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <!--
 **daidr/daidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
