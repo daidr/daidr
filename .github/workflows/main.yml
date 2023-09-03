@@ -27,7 +27,7 @@ jobs:
           # Options
           user: daidr
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_display: columns
           output_condition: data-changed
           config_timezone: Asia/Shanghai
