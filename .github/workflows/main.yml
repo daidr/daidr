@@ -27,17 +27,10 @@ jobs:
           # Options
           user: daidr
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, repositories
           config_display: columns
           output_condition: data-changed
           config_timezone: Asia/Shanghai
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -55,10 +48,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
