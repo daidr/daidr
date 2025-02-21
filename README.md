@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-🌱 I'm currently a university student in China
+🔭 I'm a front-end developer, focused on creating various fun tools.
+
+<picture>
+  <img src="https://github.com/daidr/static/blob/main/sponsors.png" alt="Sponsors" width="100%">
+</picture>
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width="100%">
